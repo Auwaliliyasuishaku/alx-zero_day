@@ -1,1 +1,1 @@
-This file is mandatory in all alx school project
+ It’s the only time you are allowed to update and commit from GitHub interface.
